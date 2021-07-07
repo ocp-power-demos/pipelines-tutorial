@@ -551,7 +551,7 @@ stringData:
 Run following command to apply Trigger.
 
 ```bash
-$ oc create -f https://raw.githubusercontent.com/openshift/pipelines-tutorial/master/03_triggers/03_trigger.yaml
+$ oc create -f https://raw.githubusercontent.com/openshift/pipelines-tutorial/release-tech-preview-3/03_triggers/03_trigger.yaml
 ```
 
 
