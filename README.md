@@ -26,7 +26,7 @@ In this tutorial you will:
 
 ## Prerequisites
 
-You need an OpenShift 4 cluster in order to complete this tutorial. If you don't have an existing cluster, go to http://try.openshift.com and register for free in order to get an OpenShift 4 cluster up and running on AWS within minutes.
+You need an OpenShift 4 cluster in order to complete this tutorial. Take a look at the following [link](https://ocp-power-automation.github.io/) for the available deployment options on Power.
 
 You will also use the Tekton CLI (`tkn`) through out this tutorial. Download the Tekton CLI by following [instructions](https://github.com/tektoncd/cli#installing-tkn) available on the CLI GitHub repository.
 
